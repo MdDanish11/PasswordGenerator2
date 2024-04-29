@@ -3,7 +3,7 @@
 Welcome to the Password Generator! This tool helps you create strong and secure passwords to enhance your online security. With the increasing importance of having unique and complex passwords for each of your accounts, this generator simplifies the process for you.
 
 ## 1.Try it Out!
-- You can access the Quiz Master project live by clicking  https://mddanish11.github.io/PasswordGenerator2/
+- You can access the Password Generator project live by clicking  https://mddanish11.github.io/PasswordGenerator2/
 
 ## 2.Features:
 - __Customizable Options__ : Tailor your passwords to your specific requirements by choosing the length and including or excluding certain characters, such as numbers, symbols, or uppercase letters.
